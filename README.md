@@ -1,5 +1,6 @@
-# ecommerce-sales-analysis
+# E-commerce-sales-analysis
 SQL + Power BI project analyzing e-commerce sales and customer behavior using Olist dataset
+Dataset Link:- https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 # E-commerce Sales & Customer Analysis
 
